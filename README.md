@@ -1,10 +1,7 @@
-### Hi there 👋
+# 🐈 Hey there! I am using GitHub. #
 
-<!--
-**predator112/predator112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+### MY STATS ###
+![predator112 GitHub Stats](https://github-readme-stats.vercel.app/api?username=predator112&show_icons=true&hide_border=true)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
